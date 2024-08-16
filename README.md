@@ -7,6 +7,10 @@
 - **Prediction Page**: Enter personal data to receive a diabetes risk prediction.
 - **Explore Page**: Visualize and analyze diabetes data, including a confusion matrix for model performance.
 
+## Demo
+
+https://github.com/user-attachments/assets/d2f7ca7b-1e82-478b-b5d1-65e349174fc1
+
 ## Installation
 
 1. Clone the repository:
