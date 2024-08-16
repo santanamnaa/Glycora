@@ -1,0 +1,10 @@
+Notes : 
+Dataset https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
+____Penjelasan Feature____
+##HbA1c (Hemoglobin A1c) level is a measure of a person's average blood sugar level over the past 2-3 months. Higher levels
+##Blood glucose level refers to the amount of glucose in the bloodstream at a given time. High blood glucose levels are a key
+____Library____
+pip install streamlit 
+####
+1. BUKA APP.PY 
+2. Buka cmd terus ketik "streamlit run app.py"
